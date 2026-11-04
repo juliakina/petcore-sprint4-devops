@@ -82,8 +82,8 @@ trigger: main
 | `ORACLE_HOST` | `oracle.fiap.com.br` |
 | `ORACLE_PORT` | `1521` |
 | `ORACLE_SID` | `ORCL` |
-| `ORACLE_USER` | seu usuário Oracle |
-| `ORACLE_PASS` | sua senha Oracle |
+| `ORACLE_USER` | usuário Oracle |
+| `ORACLE_PASS` | senha Oracle |
 
 ## 6. How To: deploy e teste
 
@@ -162,5 +162,5 @@ petcore-devops-java/
 ## 9. Links
 
 - Vídeo de demonstração (Sprint 4): _x_
-- Projeto no Azure DevOps: _x_
+- Projeto no Azure DevOps: https://dev.azure.com/RM564555/Sprint%204%20–%20Azure%20DevOps
 - Vídeo da Sprint 3: https://youtu.be/4iLHNugO3lQ
