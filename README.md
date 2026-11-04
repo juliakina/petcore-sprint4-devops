@@ -52,7 +52,7 @@ O estágio **Infraestrutura** da pipeline executa esse script automaticamente **
 | Campo | Valor |
 |---|---|
 | Project name | `Sprint 4 – Azure DevOps` |
-| Description | Projeto para entrega da Sprint 4 do professor João Menk. Integrantes: RM564786 - Carolina Nascimento Gonçalves - 2TDSPI ; RM562339 - Emanuelly Ventura do Nascimento - 2TDSPI ; RM564555 - Julia Sayuri Kina - 2TDSPI|
+| Description | Projeto para entrega da Sprint 4 do professor João Menk. Integrantes: RM564786 - Carolina Nascimento Gonçalves - 2TDSPI; RM562339 - Emanuelly Ventura do Nascimento - 2TDSPI; RM564555 - Julia Sayuri Kina - 2TDSPI|
 | Visibility | Private |
 | Version control | Git |
 | Work item process | Scrum |
@@ -161,6 +161,6 @@ petcore-devops-java/
 
 ## 9. Links
 
-- Vídeo de demonstração (Sprint 4): _x_
+- Vídeo de demonstração (Sprint 4): https://youtu.be/DMGPSfxVlM0
 - Projeto no Azure DevOps: https://dev.azure.com/RM564555/Sprint%204%20–%20Azure%20DevOps
 - Vídeo da Sprint 3: https://youtu.be/4iLHNugO3lQ
