@@ -76,7 +76,7 @@ trigger: main
 ### Variáveis da pipeline (Pipelines → Edit → Variables)
 
 | Nome | Exemplo de valor | 
-|---|---|---|
+|---|---|
 | `NOME_WEBAPP` | `petcore-rm564555` |
 | `LOCATION` | `brazilsouth` |
 | `ORACLE_HOST` | `oracle.fiap.com.br` |
